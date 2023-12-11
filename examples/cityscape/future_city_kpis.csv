@@ -1,0 +1,15 @@
+KPI,Category,Importance
+Public Transportation,Proximity,70
+Parks,Proximity,90
+Healthy Food,Proximity,90
+Physical Activity,Proximity,90
+Healthcare,Proximity,90
+Residential,Density,100
+Employment,Density,100
+3rd Places (Day),Density,95
+3rd Places (Night),Density,95
+Cultural,Density,90
+Educational,Density,90
+Co-working,Density,90
+Residential Employment Ratio,Diversity,95
+Cultural,Diversity,90
